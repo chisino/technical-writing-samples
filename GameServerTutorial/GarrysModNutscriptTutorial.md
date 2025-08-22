@@ -17,7 +17,7 @@ The Panel is the most important part of your server, as it acts as a directory f
 A sample is shown below.
 ![image](panel.png)
 
-### Config Editor# Creating a Garry's Mod Server with the Nutscript framework
+### Config Editor
 The Config Editor provides a variety of modifiable values, mainly centered around the base traits and security of your server.  
 Here, you can set your **Hostname**, **Password**, **Loading URL** (what image players see when loading in to your server), and other variables.
 ![image](config.png)
