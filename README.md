@@ -17,7 +17,7 @@ Here, I will be writing and compiling samples of documentation for the purpose o
    A guide on setting up a Garry's Mod server using the Nutscript framework.  
    [View Here](./GameServerTutorial/GarrysModNutscriptTutorial.md)
 
-2. **FL Studio Setup Guide**
+2. **FL Studio Setup Guide**  
    A guide on the basics of working with FL Studio, showcasing the layout and important features.   
    [View Here](./FLStudioGuide/FLStudio.md)
 
