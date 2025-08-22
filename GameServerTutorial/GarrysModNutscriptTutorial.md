@@ -15,16 +15,16 @@ This tutorial will guide you through setting up your server, installing Nutscrip
 ### Panel
 The Panel is the most important part of your server, as it acts as a directory for all of the files that you will be using.
 A sample is shown below.
-![image](/panel.png)
+![image](panel.png)
 
 ### Config Editor# Creating a Garry's Mod Server with the Nutscript framework
 The Config Editor provides a variety of modifiable values, mainly centered around the base traits and security of your server.  
 Here, you can set your **Hostname**, **Password**, **Loading URL** (what image players see when loading in to your server), and other variables.
-![image](/config.png)
+![image](config.png)
 
 ### Startup Settings
 Startup Settings allow you to modify important variables like the map, workshop ID, and gamemode.
-![image](/settings.png)
+![image](settings.png)
 
 ## Installing Nutscript and a Sample Schema
 Setup consists of two parts - installing the **Nutscript** base gamemode, and installing a custom **schema**.   
@@ -56,7 +56,7 @@ They can also be used to create Staff positions for administration purposes.
 ### Setting up Factions
 1. Navigate to the schema folder
 2. As shown below, you will see that there are already 3 sample factions provided: sh_citizen.lua, sh_law.lua, and sh_politic.lua
-![image](/faction_examples.png)
+![image](faction_examples.png)
 3. To start with, let's open sh_law.lua. The code will look something like this.  
 
 ```lua
