@@ -7,7 +7,7 @@ This repository contains sample technical writing projects which showcase my wri
 ## About Me
 I am a Data Engineer and Writer, and have experience working on both technical writing documentation as well as creative writing. 
 
-Combining my technical background and writing skills, I am looking to move fully into a career in technical writing.
+Here, I will be writing and compiling samples of documentation for the purpose of building my portfolio in technical writing.
 
 ---
 
