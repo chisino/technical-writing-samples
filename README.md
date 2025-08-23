@@ -21,6 +21,10 @@ Here, I will be writing and compiling samples of documentation for the purpose o
    A guide on the basics of working with FL Studio, showcasing the layout and important features.   
    [View Here](./FLStudioGuide/FLStudio.md)
 
+3. **yt-dlp Installation & Usage**  
+   A guide on how to install and use the yt-dlp command-line interface tool for video downloads.  
+   [View Here](./yt-dlp-guide/ytdlp.md)
+
 ---
 
 ## How to Explore
