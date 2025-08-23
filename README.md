@@ -24,5 +24,6 @@ Here, I will be writing and compiling samples of documentation for the purpose o
 ---
 
 ## How to Explore
-- All files are written in Markdown, with some HTML used for image resizing.  
+- All files are written in Markdown, with some HTML used for image resizing.
+- Each folder contains one project, which consists of the main .md file as well as images used in the document.  
 - You can view them directly on GitHub or clone the repository to explore locally.
